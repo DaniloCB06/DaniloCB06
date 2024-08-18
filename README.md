@@ -1,5 +1,7 @@
 ## Hi there I’m Danilo Barbosa👋
 
+
+https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white
 <!--
 **DaniloCB06/DaniloCB06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
