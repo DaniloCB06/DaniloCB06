@@ -44,11 +44,11 @@
 <h2> Some of my statistics </h2>
 <br>
 
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffff&show_icons=true&theme=radical)
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloCB06&show_icons=true&theme=radical)
 
 <br>
 <h2> Some of my most used languages </h2>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloCB06&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffff&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
