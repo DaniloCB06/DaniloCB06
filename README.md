@@ -10,7 +10,8 @@
 
 
 ## Some tools I use in my daily life
-
+<br>
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -81,6 +82,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 <br>
 <h2> Some of my statistics </h2>
 <br>
