@@ -56,10 +56,10 @@
       <td style="padding: 8px;">
         <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
           <img src="./assets/icons/openai.svg"         width="40" height="40" alt="OpenAI"         title="OpenAI" />
-          <img src="./assets/icons/google-gemini.svg"  width="40" height="40" alt="Google Gemini" title="Google Gemini" />
+          <img src="./assets/icons/googlegemini.svg"  width="40" height="40" alt="Google Gemini" title="Google Gemini" />
           <img src="./assets/icons/tensorflow.svg"     width="40" height="40" alt="TensorFlow"     title="TensorFlow" />
           <img src="./assets/icons/langchain.svg"      width="40" height="40" alt="LangChain"      title="LangChain" />
-          <img src="./assets/icons/scikit-learn.svg"   width="40" height="40" alt="scikit‑learn"    title="scikit‑learn" />
+          <img src="./assets/icons/scikitlearn.svg"   width="40" height="40" alt="scikit‑learn"    title="scikit‑learn" />
           <img src="./assets/icons/opencv.svg"         width="40" height="40" alt="OpenCV"         title="OpenCV" />
           <img src="./assets/icons/yolo.svg"           width="40" height="40" alt="YOLO"           title="YOLO" />
         </div>
@@ -70,9 +70,9 @@
       <td style="vertical-align: top; padding: 8px;"><strong>🛠️ Outros</strong></td>
       <td style="padding: 8px;">
         <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-          <img src="./assets/icons/google-cloud.svg"  width="40" height="40" alt="Google Cloud"  title="Google Cloud" />
+          <img src="./assets/icons/googlecloud.svg"  width="40" height="40" alt="Google Cloud"  title="Google Cloud" />
           <img src="./assets/icons/arduino.svg"       width="40" height="40" alt="Arduino"        title="Arduino" />
-          <img src="./assets/icons/raspberry-pi.svg"  width="40" height="40" alt="Raspberry Pi"   title="Raspberry Pi" />
+          <img src="./assets/icons/raspberrypi.svg"  width="40" height="40" alt="Raspberry Pi"   title="Raspberry Pi" />
           <img src="./assets/icons/c.svg"             width="40" height="40" alt="C"              title="C" />
           <img src="./assets/icons/cplusplus.svg"     width="40" height="40" alt="C++"            title="C++" />
           <img src="./assets/icons/assemblyscript.svg" width="40" height="40" alt="AssemblyScript" title="AssemblyScript" />
