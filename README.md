@@ -112,7 +112,9 @@
     align-items: center;
     justify-content: center;
   ">
-    <img height="200" src="./profile/stats.svg" alt="Danilo's GitHub stats" />
+    <p align="center">
+      <img height="200" src="./profile/stats.svg" alt="Danilo's GitHub stats" />
+    </p>
   </div>
 
 </div>
@@ -145,7 +147,9 @@
     justify-content: center;
   ">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <p align="center">
       <img height="200" src="./profile/top-langs.svg" alt="Most Used Languages" />
+    </p>
     </a>
   </div>
 </div>
