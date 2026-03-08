@@ -138,19 +138,8 @@
   align-items: flex-start;
 ">
 <!-- Card 2 -->
-  <div style="
-    flex: 1;
-    max-width: 400px;
-    height: 200px;               /* mesma altura do outro */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  ">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <p align="center">
-      <img height="200" src="./profile/top-langs.svg" alt="Most Used Languages" />
-    </p>
-    </a>
-  </div>
+<p align="center">
+  <img height="200" src="./profile/top-langs.svg" alt="Most Used Languages" />
+</p>
 </div>
 
