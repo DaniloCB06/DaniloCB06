@@ -112,16 +112,7 @@
     align-items: center;
     justify-content: center;
   ">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=DaniloCB06&show_icons=true&theme=radical"
-      alt="Danilo's GitHub stats"
-      style="
-        width: 100%;             /* ocupa toda a largura do card */
-        height: 100%;            /* ocupa toda a altura do card */
-        object-fit: contain;     /* mantém proporção sem cortar */
-        border-radius: 4px;
-      "
-    />
+    <img height="200" src="./profile/stats.svg" alt="Danilo's GitHub stats" />
   </div>
 
 </div>
@@ -154,16 +145,7 @@
     justify-content: center;
   ">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloCB06&theme=radical&layout=donut"
-        alt="Most Used Languages"
-        style="
-          width: 100%;
-          height: 100%;
-          object-fit: contain;
-          border-radius: 4px;
-        "
-      />
+      <img height="200" src="./profile/top-langs.svg" alt="Most Used Languages" />
     </a>
   </div>
 </div>
