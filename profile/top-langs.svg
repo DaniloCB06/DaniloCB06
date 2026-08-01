@@ -152,11 +152,11 @@
       <g transform="translate(0, 0)">
       <g class="stagger" style="animation-delay: 450ms">
         <text data-testid="lang-name" x="2" y="15" class="lang-name">Jupyter Notebook</text>
-        <text x="215" y="34" class="lang-name" data-testid="lang-name">58.5%</text>
+        <text x="215" y="34" class="lang-name" data-testid="lang-name">58.3%</text>
         
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="58.46%">
+      <svg data-testid="lang-progress" width="58.29%">
         <rect
             height="8"
             fill="#DA5B0B"
@@ -171,11 +171,11 @@
     </g><g transform="translate(0, 40)">
       <g class="stagger" style="animation-delay: 600ms">
         <text data-testid="lang-name" x="2" y="15" class="lang-name">Java</text>
-        <text x="215" y="34" class="lang-name" data-testid="lang-name">37.4%</text>
+        <text x="215" y="34" class="lang-name" data-testid="lang-name">37.6%</text>
         
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="37.42%">
+      <svg data-testid="lang-progress" width="37.60%">
         <rect
             height="8"
             fill="#b07219"
